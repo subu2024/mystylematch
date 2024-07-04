@@ -1,0 +1,32 @@
+[
+{
+    "id": 1,
+    "title": "Myntra",
+    "description":"Myntra is an online shopping website that joins the list of platforms that help curate a personalised fashion feed. Named theMyntra Studio, this personalised search feed brings you the latest men and women’s fashion trends, celebrity styles, branded content and daily updates from your favourite fashion labels" ,
+    "url": "https://www.myntra.com",
+    "pros":"wide selection of products from various brands and categories",
+    "cons":"missing or non-existent customer service"
+
+},
+
+{
+    "id": 2,
+    "title": "Kalki Fashion",
+    "description":"An upstart, innovative, and dynamic brand - KALKI - offers the best of contemporary, ethnic Indian fashion and fusion-wear styles" ,
+    "url": "https://www.kalkifashion.com",
+    "pros":"timely delivery",
+    "cons":"missing customer service, difficulty in returns"
+
+},
+
+{
+    "id": 3,
+    "title": "Indya",
+    "description":"Indya is a modern Indian Wear brand that was born out of the thought to re-invent traditional Indian fashion by considering the evolving lifestyle and aesthetics of the new-age woman" ,
+    "url": "https://www.houseofindya.com",
+    "pros":"timely delivery",
+    "cons":"unresponsive customer service"
+
+}
+
+]
